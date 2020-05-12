@@ -1,0 +1,11 @@
+/* Add your styles here */
+		 html {
+			background-image: url('waves1.gif');
+			background-repeat: no-repeat;
+			height: 95%;
+			background-position: center;
+			background-size: cover;
+		}
+		
+
+
